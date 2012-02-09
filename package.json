@@ -1,0 +1,39 @@
+{
+    "name": "addTargetBlank",
+    "version": "0.0.1",
+    "title": "jQuery addTargetBlank Plugin",
+    "author": {
+        "name": "Rémi Goyard",
+        "url": "https://www.mimiz.fr/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1"
+    },
+    "description": "This plugin is used to add target='_blank' attribute to externals link on the page.",
+    "keywords": [
+        "link",
+        "external",
+        "target blank",
+        "anchor"
+    ],
+    "homepage": "https://github.com/mimiz/jquery-addTargetBlank-plugin",
+    "docs": "https://github.com/mimiz/jquery-addTargetBlank-plugin",
+    "demo": "https://github.com/mimiz/jquery-addTargetBlank-plugin",
+    "maintainers": [
+        {
+            "name": "Rémi Goyard",
+            "url": "https://github.com/mimiz/jquery-addTargetBlank-plugin"
+        }
+    ],
+    "files": ["jquery.addTargetBlank.js"]
+}
