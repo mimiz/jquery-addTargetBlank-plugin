@@ -1,10 +1,10 @@
 {
     "name": "addTargetBlank",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "title": "jQuery addTargetBlank Plugin",
     "author": {
         "name": "Rémi Goyard",
-        "url": "https://www.mimiz.fr/"
+        "url": "http://www.mimiz.fr/"
     },
     "licenses": [
         {
@@ -23,7 +23,8 @@
     "keywords": [
         "link",
         "external",
-        "target blank",
+        "blank",
+        "target",
         "anchor"
     ],
     "homepage": "https://github.com/mimiz/jquery-addTargetBlank-plugin",
@@ -32,7 +33,7 @@
     "maintainers": [
         {
             "name": "Rémi Goyard",
-            "url": "https://github.com/mimiz/jquery-addTargetBlank-plugin"
+            "url": "http://www.mimiz.fr"
         }
     ],
     "files": ["jquery.addTargetBlank.js"]
